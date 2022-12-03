@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello-rails-back-end] <a name="about-project"></a>
+# 📖 [hello-rails-front-end] <a name="about-project"></a>
 
-**[hello-rails-back-end]** is a React front-end with a Rails back-end and connect them to display a random greeting message.
+**[hello-rails-front-end]** is a React front-end with a Rails back-end and connect them to display a random greeting message.
 
 
 ## 🛠 Built With <a name="built-with">Ruby</a>
@@ -60,6 +60,10 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+
+## 🚀 front End link <a name="back-end"></a>
+
+[link](https://github.com/Hamayounali/hello-rails-back-end)
 
 ## 🚀 Live Link <a name="live-demo"></a>
 
