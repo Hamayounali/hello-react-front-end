@@ -61,7 +61,7 @@
   </ul>
 </details>
 
-## 🚀 front End link <a name="back-end"></a>
+## 🚀 Back End link <a name="back-end"></a>
 
 [link](https://github.com/Hamayounali/hello-rails-back-end)
 
